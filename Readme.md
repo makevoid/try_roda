@@ -8,6 +8,8 @@ sinatra 4k req/sec
 
 ---
 
+### running it:
+
     RACK_ENV=production puma
 
 
