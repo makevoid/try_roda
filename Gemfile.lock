@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    oj (2.12.12)
+    puma (2.13.4)
+    puma (2.13.4-java)
+    rack (1.6.4)
+    roda (2.5.1)
+      rack
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  oj
+  puma
+  roda
+
+BUNDLED WITH
+   1.10.6

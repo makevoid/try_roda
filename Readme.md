@@ -1,20 +1,22 @@
 # Roda example app
 
+#### a more advanced example than  https://github.com/makevoid/roda_example_app
+
 example app in Roda, routing tree microframework:
 
-### http://roda.jeremyevans.net
+#### http://roda.jeremyevans.net
 
 running on mbp retina 2.2ghz linux ubuntu quad core
 
 rack env set to production (obviously)
 
-roda:    
+roda:
 
-    20k request/sec 
+    20k request/sec
 
 vs
 
-sinatra: 
+sinatra:
 
     4k req/sec
 
@@ -27,4 +29,6 @@ sinatra:
 
 requirements:
 
-    gem i roda puma
+    gem i bundler
+
+    bundle
