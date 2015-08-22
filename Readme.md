@@ -1,10 +1,22 @@
 # Roda example app
 
-20k request/sec running on mbp retina
+example app in Roda, routing tree microframework:
+
+### http://roda.jeremyevans.net
+
+running on mbp retina 2.2ghz linux ubuntu quad core
+
+rack env set to production (obviously)
+
+roda:    
+
+    20k request/sec 
 
 vs
 
-sinatra 4k req/sec
+sinatra: 
+
+    4k req/sec
 
 ---
 
