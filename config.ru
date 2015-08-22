@@ -6,7 +6,7 @@ class App < Roda
   route do |r|
     # GET / request
     r.root do
-      "hello world"
+      "{ body: 'hello world', current_time_s: '#{Time.now}' }"
     end
   end
 end
