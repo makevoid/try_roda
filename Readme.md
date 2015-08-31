@@ -25,7 +25,7 @@ sinatra:
 
 20k request/sec on my machine is almost rack speed
 
-I would like to see a bench github project that compares thin vs puma on a linux server env
+I would like to see a bench github project that compares thin vs puma on a linux server env running on recent hardware
 
 ---
 
