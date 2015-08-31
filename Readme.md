@@ -6,6 +6,9 @@ example app in Roda, routing tree microframework:
 
 #### http://roda.jeremyevans.net
 
+
+### fast! some benchmark on my machine
+
 running on mbp retina 2.2ghz linux ubuntu quad core (puma web server, thin may be a bit better/worse depending your environment)
 
 rack env set to production (obviously)
